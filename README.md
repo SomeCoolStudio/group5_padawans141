@@ -41,4 +41,13 @@ When the project is completed, commit the final changes, sync all pull requests,
 
 
 ###### List group responsiblities below:
+
+Carlos - Created lead repo, navigator for initial commit and driver for second commit
+
+Jessica - The driver for first commit, provided starting code
+
 ###### Provide name and approxamite line numbers where each person wrote their code
+
+Jessica - All code
+
+Carlos - All code
